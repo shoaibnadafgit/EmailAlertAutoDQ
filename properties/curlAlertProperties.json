@@ -1,0 +1,20 @@
+{
+      "email": {
+        "user": "shoaib.nadaf@dataeaze.io",
+        "password": "Shoaib@123",
+        "sender_email": "shoaib.nadaf@dataeaze.io",
+        "recipient": "shoaibnadafg@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port":25
+      },
+      "slack": {
+        "slackToken": "xoxo-bcds-23423424234",
+        "slackChannel": "#big-data"
+      },
+    "messageConfig": {
+      "Subject": "Testing AutoDQ datasource Notification ",
+      "Body": "Hello , \n\t I am sending you the email attached report of Datasources, \nkindly check",
+      "attach": "/home/shoaib/Dataeaze_Official/AutoDQ_Task/AutoDQ_NotificationHandler"
+    }
+}
+
